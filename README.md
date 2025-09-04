@@ -1,2 +1,2 @@
 # Excel Projects Data Analytics
-My project demonstrating my Excel skills
+My project demonstrates my Excel skills  
